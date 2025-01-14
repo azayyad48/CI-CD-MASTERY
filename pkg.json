@@ -1,0 +1,13 @@
+{
+  "name": "ci-cd-mastery",
+  "version": "1.0.0",
+  "description": "A demo project for CI/CD pipeline with Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Building the project...' && mkdir -p build && touch build/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
+
